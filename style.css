@@ -1,0 +1,32 @@
+.title{
+width: 100%;
+ top: 0;
+ background: linear-gradient( 45deg,#56ccf2,#2f80ed);
+}
+ .title h2{
+display: inline;
+}
+.title button{
+float: right;
+border: 1px solid white;
+background: linear-gradient(45deg,#56ccf2,#2f80ed);
+}
+.mario_img{
+ width: 100%;
+}
+ #start, #status{
+font-size: 20px;
+ }
+ #status{
+  font-size: 20px;
+ }
+ #footer{
+ background-color: rgb(215, 224, 225);
+line-height: 3;
+margin-top: 0px;
+text-align: center;
+font-size: medium;
+ }
+ .bt{
+   margin-bottom: 50px;
+ }
